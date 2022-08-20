@@ -1,0 +1,4 @@
+﻿plane_id,number_of_seats,status,current_location
+1,180,available,kolkata
+2,180,available,bengaluru
+3,180,maintainence,kolkata
